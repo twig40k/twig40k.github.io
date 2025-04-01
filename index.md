@@ -26,7 +26,7 @@ link out to git and summarize [link](http://twig40k.github.io/BioStatisticsAnaly
 I took multible data sets and merged them together in order to look at relations between malaria deaths, cases and country GDP. [here](https://twig40k.github.io/BioStatisticsAnalysis/malaria%comb%data.html)
 
 #### RNA Seq
-I started by working with sample data sets to look at RNA seq data and how it can be displayed. I used both a [table](http://twig40k.github.io/Bioinformatics/rna_seq_1.html) to look at gene comparisions and a [heat map](http://twig40k.github.io/Bioinformatics/rna_seq_2.html) to look at trends in the data and display it in a readable way.
+I started by working with sample data sets to look at RNA seq data and how it can be displayed. I used both a [table](<http://twig40k.github.io/Bioinformatics/rna seq 1.html>) to look at gene comparisions and a [heat map](http://twig40k.github.io/Bioinformatics/rna_seq_2.html) to look at trends in the data and display it in a readable way.
 
 #### Pylogentic Trees
 I took sample data and experimented with differnt ways to make [phylogenetic trees](http://twig40k.github.io/Bioinformatics/phylo_tree_1.html)
