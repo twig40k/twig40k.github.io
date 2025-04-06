@@ -1,5 +1,6 @@
 ## Ryan Hanks
 
+< img src=”(SiteFiles/head.jpg)”>
 &nbsp; Biology student <br/>
 &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: ryan.hanks@snhu.edu<br/>
