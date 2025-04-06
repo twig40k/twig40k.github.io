@@ -18,13 +18,33 @@ I am a soon to Biology graduate at SNHU. I have a strong interest in Microbiolog
 <br/>
 <br/>
 
+### Undergraduate Research 
+I participated in an undergraduate research projected focused around self healing concrete. We looked at optimizing bacterial yeild of calcium carbonate by varining urea and nutreint broth concentrations. This [project](<SiteFiles/Bact Poster (2).pdf>) was presented at SNHU undergraduate research day.
+<img src="SiteFiles/poster.jpg" align="left" width=500>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ### Sample Work Products
+Thoughout my Bioinformatics class we worked on several different project as seen below. 
 
 #### Palmer's Penguins
-link out to git and summarize [link](http://twig40k.github.io/BioStatisticsAnalysis/penguinsinital.html)
+As an introduction to biostatistics I worked with the Palmer's penguins data set and preformed differnt ways of visualizing and anylizing the data. It can be seen [here](http://twig40k.github.io/BioStatisticsAnalysis/penguinsinital.html).
 
 #### Malaria
-I took multible data sets and merged them together in order to look at relations between malaria deaths, cases and country GDP. [here](<https://twig40k.github.io/BioStatisticsAnalysis/malaria comb data.html>)
+Continueing with Biostatistics, I took multible data sets and merged them together in order to look at relations between malaria deaths, cases and country GDP. [here](<https://twig40k.github.io/BioStatisticsAnalysis/malaria comb data.html>)
 
 #### RNA Seq
 I started by working with sample data sets to look at RNA seq data and how it can be displayed. I used both a [table](<http://twig40k.github.io/Bioinformatics/rna seq 1.html>) to look at gene comparisions and a [heat map](<http://twig40k.github.io/Bioinformatics/rna seq 2.html>) to look at trends in the data and display it in a readable way.
