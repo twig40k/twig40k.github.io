@@ -36,6 +36,8 @@ I participated in an undergraduate research projected focused around self healin
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### Sample Work Products
 Thoughout my Bioinformatics class we worked on several different project as seen below. 
