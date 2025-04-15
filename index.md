@@ -55,4 +55,5 @@ I started by working with sample data sets to look at RNA seq data and how it ca
 I took sample data and experimented with different ways to make [phylogenetic trees](<http://twig40k.github.io/Bioinformatics/phylo tree 1.html>).
 
 #### Custom Trees
-I built a data set from Genbank and then walked through the process of alining the sequences, comparing differences between species and making a [phylogenetic tree](<http://twig40k.github.io/Bioinformatics/bact phylo tree.html>). (WIP)
+I built a data set from Genbank and then walked through the process of alining the sequences, comparing differences between species and making a [phylogenetic tree](<http://twig40k.github.io/Bioinformatics/bact phylo tree.html>). 
+<img src="SiteFiles/tree.png" align="left" width=500>
