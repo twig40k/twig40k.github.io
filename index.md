@@ -57,3 +57,19 @@ I took sample data and experimented with different ways to make [phylogenetic tr
 #### Custom Trees
 I built a data set from Genbank and then walked through the process of alining the sequences, comparing differences between species and making a [phylogenetic tree](<http://twig40k.github.io/Bioinformatics/bact phylo tree.html>). 
 <img src="SiteFiles/tree.png" align="left" width=500>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
